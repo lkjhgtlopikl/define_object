@@ -1,0 +1,20 @@
+
+body{
+    background-color: #6c757d;
+}
+#res,
+.card {
+  text-align: center;
+  width: 40%;
+  margin: 10% 30%;
+  padding: 5%;
+  box-sizing: border-box;
+  background-color: black;
+}
+body{
+    background: #6c757d !important;
+    text-align: center;
+}
+.navbar{
+    margin-bottom: 10%;
+}
